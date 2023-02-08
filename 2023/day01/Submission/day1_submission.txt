@@ -1,0 +1,22 @@
+## Introduction - Day 1
+
+This is the day you have to Take this challenge and start your #90DaysOfDevOps with the #TrainWithShubham Community
+
+- Fork this Repo. Done
+- Start with a DevOps Roadmap[https://youtu.be/iOE9NTAG35g] Done
+- Write a LinkedIn post or a small article about your understanding of DevOps. Done
+
+ - What is DevOps
+ DevOps is a methodology which breach the gap between developer and operation team, here operation team is nothing but the IT infra team who takes care of server and web services who make the server ready to deply the code on UAT, development and then on production environment.
+
+ - What is Automation, Scaling, Infrastructure
+ Automation is quite hot topic in the market right now, we have started moving from on premise setup to on cloud setup. Automation help us to make things easy as we can do a lot of things without manual intervention and things which required less manual intervention is called Automation.
+ Infrastructure-as-Code tools can automatically configure software environments based on configuration management files created beforehand.
+
+ Scaling: We have two types of scalling features, one is vertical and one is horizontal. Vertial means adding more compute power to our existing instance but in horizontal scalling we get the extra power by adding additonal instances.
+
+ Infrastructure: As per my understanding we have two type of infrastructure, one is on premise infra and the other one cloud infra, On prem infea means where we have our own dedicated data center where all the servers are running but the cloud infra is nothing but AWS,GCP and Azure where we dont need any dedicated data center , we can launch our whole IT infra on the internet.
+
+ - Why DevOps is Important, etc
+ We used to be two different department, one is of developer team and the other one for IT server/Infra team. Now developer team has a dependecies on Infra team if they need any instance to be launched for any web server deployement, Developer team used to chase and wait for Infra team's response. So there was huge gap in terms of timely support. So to avoid this gap DevOps came into picture, now the one DevOps engineer will play the role of developer (No Coding) and operation (Infra) team. DevOps engineer will be responsible for end to end deployemnt and there will not by such delay.
+ 
