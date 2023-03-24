@@ -1,0 +1,50 @@
+Explain in your own words and examples, what is Shell Scripting for DevOps.
+
+Shell scripting is a command line interpreter and shell script is nothing but a list of commands executed by the shell. If we talk about DevOps engineers then a DevOps engineer automates stuff with the help of shell script.
+
+What is #!/bin/bash? can we write #!/bin/sh as well?
+
+This is known as the shebang line, bash is a program under the bin directory which has a feature to run all the commands. so by this line, we are giving instructions to a shell file that whatever commands written in this .sh file need to be run.
+
+Also #!/bin/bash? and #!/bin/sh are the same hence we can use any of the lines in our shell script.
+
+Write a Shell Script that prints I will complete the #90DaysOofDevOps challenge.
+
+So here is a small script that will print the simple string/text and will display it on the screen.
+
+so here I am creating a shell file with the help of the vi command and the extension should be .sh if we are creating any shell script.
+
+
+
+Once we are in shell file mode then follow the below command to print the text on the screen as shown in the below screenshot.
+
+
+
+After writing the above commands we have to get out of this screen by typing :wq and then hitting enter. once we are on our main screen then run the script with the bash command and if everything is proper then you will get the output.
+
+
+
+Write a Shell Script to take user input, input from arguments and print the variables.
+
+Here we are using the read command which is used to declare a variable, the variable is nothing but we are storing the input in the declared variable and the rest of everything is the same.
+
+
+
+
+
+Here we have input the value and the value will get stored in the variable name and then it will display the input in the output section with the help of the echo command.
+
+
+
+Write an Example of If else in Shell Scripting by comparing 2 numbers.
+
+As usual, we are creating a shell file with the name of ifelse.sh
+
+
+
+And here is the conditional command, here we need to be very careful while writing conditional commands like space should be there in the bracket and semi-colon while closing the bracket. -gt is known as greater than which we are using to compare the number. once we are done with the command then we have to close the if condition with the fi command as shown in the screenshot.
+
+
+
+and here is the output.
+
